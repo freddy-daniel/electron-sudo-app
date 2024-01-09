@@ -48,7 +48,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/eslint-plugin": "^6.18.1",
     "@typescript-eslint/parser": "^4.33.0",
     "copyfiles": "^2.4.1",
     "electron": "^17.2.0",
